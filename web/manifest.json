@@ -1,11 +1,11 @@
 {
-    "name": "semester_project",
-    "short_name": "semester_project",
+    "name": "CampusCare Campus Incident Reporting System",
+    "short_name": "CampusCare",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "CampusCare campus incident reporting system for IT 110 Activity 9.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
